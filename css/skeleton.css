@@ -126,8 +126,8 @@ body {
   font-weight: 400;
   font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222; 
-  background-image:url(images/picbackground.png);
-  background-repeat:no-repeat;}
+  background-image: url("images/picbackground.png");
+ }
 
 
 /* Typography
